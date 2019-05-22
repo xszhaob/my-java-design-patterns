@@ -13,6 +13,9 @@
         <module>abstract-document</module>
         <module>adapter</module>
         <module>bridge</module>
+        <module>builder</module>
+        <module>chain</module>
+        <module>command</module>
     </modules>
 
     <properties>

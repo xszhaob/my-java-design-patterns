@@ -10,6 +10,9 @@
         <module name="abstract-factory" />
         <module name="adapter" />
         <module name="bridge" />
+        <module name="builder" />
+        <module name="chain" />
+        <module name="command" />
       </profile>
     </annotationProcessing>
   </component>
