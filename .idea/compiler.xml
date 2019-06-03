@@ -13,6 +13,9 @@
         <module name="builder" />
         <module name="chain" />
         <module name="command" />
+        <module name="composite" />
+        <module name="decorator" />
+        <module name="facade" />
       </profile>
     </annotationProcessing>
   </component>
