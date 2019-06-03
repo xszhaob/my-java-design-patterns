@@ -1,6 +1,8 @@
 package bo.zhao.action.bridge;
 
 /**
+ * 武器接口
+ *
  * @author Bo.Zhao
  * @since 19/5/17
  */
