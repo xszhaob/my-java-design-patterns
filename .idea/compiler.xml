@@ -17,6 +17,7 @@
         <module name="decorator" />
         <module name="facade" />
         <module name="flyweight" />
+        <module name="proxy" />
       </profile>
     </annotationProcessing>
   </component>
