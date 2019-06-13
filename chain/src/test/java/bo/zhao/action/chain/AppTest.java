@@ -1,5 +1,6 @@
 package bo.zhao.action.chain;
 
+import bo.zhao.action.chain.demo1.App;
 import org.junit.jupiter.api.Test;
 
 /**

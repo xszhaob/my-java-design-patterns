@@ -1,5 +1,8 @@
 package bo.zhao.action.chain;
 
+import bo.zhao.action.chain.demo1.OrcKing;
+import bo.zhao.action.chain.demo1.Request;
+import bo.zhao.action.chain.demo1.RequestType;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
