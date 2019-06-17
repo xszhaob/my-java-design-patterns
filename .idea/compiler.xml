@@ -18,6 +18,7 @@
         <module name="facade" />
         <module name="flyweight" />
         <module name="interpreter" />
+        <module name="iterator" />
         <module name="proxy" />
       </profile>
     </annotationProcessing>
