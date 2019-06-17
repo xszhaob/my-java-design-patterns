@@ -1,4 +1,4 @@
-package bo.zhao.action.command;
+package bo.zhao.action.command.demo1;
 
 import java.util.Deque;
 import java.util.LinkedList;

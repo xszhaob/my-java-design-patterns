@@ -1,5 +1,6 @@
 package bo.zhao.action.command;
 
+import bo.zhao.action.command.demo1.App;
 import org.junit.jupiter.api.Test;
 
 /**

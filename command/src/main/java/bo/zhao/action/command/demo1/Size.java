@@ -1,18 +1,19 @@
-package bo.zhao.action.command;
+package bo.zhao.action.command.demo1;
 
 /**
  * @author Bo.Zhao
  * @since 19/5/22
  */
-public enum Visibility {
+public enum Size {
 
-    VISIBLE("visible"), INVISIBLE("invisible");
+    SMALL("small"), NORMAL("normal");
 
     private String title;
 
-    Visibility(String title) {
+    Size(String title) {
         this.title = title;
     }
+
 
     @Override
     public String toString() {
