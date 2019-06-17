@@ -19,6 +19,7 @@
         <module name="flyweight" />
         <module name="interpreter" />
         <module name="iterator" />
+        <module name="mediator" />
         <module name="proxy" />
       </profile>
     </annotationProcessing>
